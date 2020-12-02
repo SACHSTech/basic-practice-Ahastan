@@ -9,7 +9,7 @@ Created:	02/12/2020
 -------------------------------------------------------------------------------
 '''
 
-# get 4 marks from the UserWarning
+# get 4 marks from the User
 mark1 = float(input("Enter mark one: "))
 mark2 = float(input("Enter mark two: "))
 mark3 = float(input("Enter mark three: "))
